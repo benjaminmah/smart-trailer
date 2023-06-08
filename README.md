@@ -5,4 +5,4 @@ Contains code for a GPS module, LCD display with button navigation, 2-DOF Motors
 
 Trailer.py contains the code saved onto the trailer.
 
-Full field tests can be found here: https://drive.google.com/drive/folders/1cZ55jxxmm9X113SXtI50GFHAQKRSwYap?usp=sharing
+Full field tests, circuit diagrams, and trailer photos can be found here: https://drive.google.com/drive/folders/1cZ55jxxmm9X113SXtI50GFHAQKRSwYap?usp=sharing
